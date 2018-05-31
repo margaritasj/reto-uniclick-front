@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  font-family: "lato", sans-serif;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+/*
+Fondo negro = #222222
+Texto negro = #555
+Rosado = #D9534F
+Plomo = #999999
+Rojo =  #c82333
+
+*/
+
+.bg-dark {
+  background-color: #222222!important;
+}
+
+.bg-pink {
+  background-color: #D9534F!important;
+}
+
+.bg-gray{
+  background-color: #999999!important;
+}
+
+.bg-red{
+  background-color: #c82333!important;
+}
+
+
+.text-dark {
+  color: #555!important;
+}
+
+.p-6 {
+  padding: 6rem;
+}
