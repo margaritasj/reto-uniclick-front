@@ -39,3 +39,14 @@ Rojo =  #c82333
 .p-6 {
   padding: 6rem;
 }
+
+.m-top {
+  margin-top: -25px;
+  position: absolute;
+}
+
+.btn-circle {
+  border-radius: 3rem;
+  background-color: white;
+  padding: 0;
+}
