@@ -45,8 +45,13 @@ Rojo =  #c82333
   position: absolute;
 }
 
+.m-top-section {
+  margin-top: 5rem;
+}
+
 .btn-circle {
   border-radius: 3rem;
   background-color: white;
   padding: 0;
 }
+
