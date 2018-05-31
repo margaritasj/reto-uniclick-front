@@ -10,7 +10,8 @@ $(document).ready(function() {
       .then(resp => resp.json())
       .then(function(calc) {
         console.log(calc);
-        var myTable = ` <div class='table-responsive'>
+        var myTable = `     <p class="card-text"> El interes anual es: ${calc.tasa} </p>
+                        <div class='table-responsive'>
                           <table class='table'>
                             <thead>
                               <tr>
